@@ -1,0 +1,11 @@
+{
+  "name": "finana",
+  "version": "1.0.0",
+  "description": "week five task",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kayode owolabi",
+  "license": "ISC"
+}
